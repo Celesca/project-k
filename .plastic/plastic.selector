@@ -1,0 +1,4 @@
+repository "project-k@deversetusStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
